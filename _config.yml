@@ -7,14 +7,14 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 #google_analytics: dbyll
-title: Passa's Blog
+title: Passa Pungchai
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Passa Pungchai
+      title: Passa's Blog
 
 description: Stylish Jekyll Theme
 author:
