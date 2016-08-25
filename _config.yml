@@ -17,7 +17,7 @@ defaults:
     values:
       title: Passa's Blog
 
-description: Stylish Jekyll Theme
+description: The blest blog/personal site ever. 
 author:
   name: Passa Pungchai
   email: 426@lammersvilleusd.net
@@ -31,6 +31,7 @@ author:
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
+resume_path: resume.html
 
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
