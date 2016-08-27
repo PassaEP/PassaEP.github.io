@@ -2,6 +2,8 @@
 title: 'when the math hurts, but it hurts so good? '
 date: '2016-08-25 13:02:00'
 layout: post
+excerpt: true
+comments: true
 ---
 
 I'm trying very hard to get back into math.
