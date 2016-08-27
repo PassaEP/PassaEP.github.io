@@ -3,7 +3,7 @@ title: 'when the math hurts, but it hurts so good? '
 date: '2016-08-25 13:02:00'
 layout: post
 fullview: false
-excerpt: true
+excerpt: I'm trying very hard to get back into math.
 comments: true
 ---
 
