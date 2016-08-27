@@ -2,7 +2,7 @@
 title: 'when the math hurts, but it hurts so good? '
 date: '2016-08-25 13:02:00'
 layout: post
-excerpt: true
+fullview: false
 comments: true
 ---
 
