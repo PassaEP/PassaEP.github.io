@@ -12,7 +12,12 @@ Take this line from an interview he gave recently at the Trump National Golf Clu
  >** "Well, she got the second. You have the advantage being the second convention. It’s a big advantage being the second convention. But I feel good. You see the crowds. I mean, you don’t see enthusiasm like that at a Hillary rally. People are falling asleep." 
 **
 
-He uses adjectives like "good" and "big" to keep it simple for the average listener. That's just smart. He doesn't embellish; he calls the shots like it is, and people  like him for that. 
+He uses adjectives like "good" and "big" to keep it simple for the average listener. He doesn't embellish; he uses mildly crude sentences to get his points across (i.e. saying that "People are falling asleep" at Clinton rallies). 
+
+He's different from the other candidates because he does not talk like a politician; he talks like the average American and unsurprisingly, people like that. 
+
+
+
 
 
 
