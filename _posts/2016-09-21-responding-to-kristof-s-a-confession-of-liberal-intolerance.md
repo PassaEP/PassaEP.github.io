@@ -17,3 +17,10 @@ Furthermore, dismissing Conservatives from the conversation is morally wrong. Fo
 > "To me, the conversation illuminated primarily liberal arrogance — the implication that conservatives don’t have anything significant to add to the discussion." 
 
 To end with, the arguments for the exclusion of Conservatives from academic conversations are eerily familiar to the bigotry and discrimination that Progressives themselves condemn. 
+
+ **REFERENCES**
+Johnson, David W., and Roger T. Johnson. "Conflict in the Classroom: Controversy And Learning." *Review of Educational Research*, vol. 49, no. 1, 1979, http://rer.sagepub.com/content/49/1/51.extract. Accessed 21 September 2016.
+
+Kristof, Nicolas. "A Confession of Liberal Intolerance." *The New York Times*, 7 May 2016, nytimes.com/2016/05/08/opinion/sunday/a-confession-of-liberal-intolerance.html. Accessed 21 September 2016. 
+
+
