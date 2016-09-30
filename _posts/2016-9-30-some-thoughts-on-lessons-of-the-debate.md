@@ -16,7 +16,7 @@ Back in 2012, the Republican Establishment did all they could to bar Mitt Romney
 
 To the GOP Establishment, I say this, the way the great Angelica Schuyler Church would have put it: 
 
->“Congratulations. You have invented a new kind of stupid.” It’s 2016 now, and you’ve made the American conservative base so angry and mangled that they have nominated The Donald. It’s not because they are all racist and/or bigoted, but because you have, for years, ignored their pleas. I wish you the best in the coming election cycle. I was once a young Republican, but now I am a young Libertarian who is canvassing for Gary Johnson.
+“Congratulations. You have invented a new kind of stupid.” It’s 2016 now, and you’ve made the American conservative base so angry and mangled that they have nominated The Donald. It’s not because they are all racist and/or bigoted, but because you have, for years, ignored their pleas. I wish you the best in the coming election cycle. I was once a young Republican, but now I am a young Libertarian who is canvassing for Gary Johnson.
 
 **REFERENCES** 
 
@@ -26,7 +26,7 @@ Eichenwald, Kurt. "HOW DONALD TRUMP’S COMPANY VIOLATED THE UNITED STATES EMBAR
 
 "Election 2016: Lessons of the Debate." *The Economist*, Oct. 2016, Web. 30 Sept 2016.   
 
-"Congratulations || Hamilton Animatic." *Youtube*, uploaded by coma / Sunny Acosta, Jan 2016, https://youtu.be/Jic_KwJjNOs. 
+"Congratulations Hamilton Animatic." *Youtube*, uploaded by coma / Sunny Acosta, Jan 2016, https://youtu.be/Jic_KwJjNOs. 
 
 
 
