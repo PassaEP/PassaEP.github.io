@@ -1,7 +1,8 @@
 ---
-title: What Separates The Donald From Everyone Else
+title: 'What Separates The Donald From Everyone Else'
 date: '2016-08-31 09:31:00'
-layout: page 
+layout: post
+fullview: false 
 excerpt: Trump is a brilliant orator. That's obvious, no leeway for argument there. 
 comments: true 
 ---
