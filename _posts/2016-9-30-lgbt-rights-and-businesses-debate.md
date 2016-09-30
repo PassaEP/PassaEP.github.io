@@ -1,6 +1,6 @@
 ---
 title: 'Thoughts on LGBT Rights and the Role of Businesses'
-date: '2016-09-21 09:10:00'
+date: '2016-09-30 00:41:00'
 layout: post
 fullview: false 
 excerpt: The affirmative case argues that businesses have a moral and economic obligation to advocate for LGBT rights. 
