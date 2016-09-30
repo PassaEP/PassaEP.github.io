@@ -1,6 +1,6 @@
 ---
 title: 'Political Activism of Pastors'
-date: '2016-08-20 09:31:00'
+date: '2016-08-26 09:31:00'
 layout: post
 fullview: false 
 excerpt: Church pastors should be allowed to participate in certain political causes, but not others. 
