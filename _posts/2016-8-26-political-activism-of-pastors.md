@@ -16,7 +16,7 @@ Government’s role in business should be minimal anyway; the government’s onl
 
 The political activism of pastors has been shown to bring reform and change, as seen with Martin Luther King Jr.. It is necessary, however, to distinguish the areas of politics that would have something to gain from a pastor’s perspective. By better understanding their optimal roles in political activism, pastors and Americans democracy alike benefit. 
 
-**RESOURCES** 
+**REFERENCES** 
 
 
 "Al Sharpton Biography." *bio.* A&E Television Networks, 27 Feb 2015. Web. 30 Sept 2016.
