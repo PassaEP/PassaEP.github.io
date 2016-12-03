@@ -1,5 +1,5 @@
 ---
-title: 'The Responsibility of the Orlando Shooter's Wife
+title: 'The Responsibility of the Orlando Shooter's Wife'
 date: '2016-11-11 09:10:00'
 layout: post
 fullview: false 
