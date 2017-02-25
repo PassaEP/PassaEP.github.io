@@ -12,3 +12,5 @@ Good satire makes you think. I believe that for satire to fulfill its purpose, t
 Fallon (2016) claims that if there needs to be a clarification for satire, it's not good satire. She argues further that satire is just another front for bigotry. She cites Calvin Trillin's poem about cuisine as an example of this. 
 
 I strongly disagree with her position. Expressing irony and everything wrong with these fallacies points out how a certain practice is wrong. Trillin's piece points out what bigotry really is, and the problems with it. 
+
+Good satire forces people to change their paradigms and thoughts as (Mankoff 2012). 
