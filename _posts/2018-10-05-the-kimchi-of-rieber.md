@@ -3,7 +3,7 @@ title: 'The Kimchi of Rieber'
 date: '2018-10-05 14:26:00'
 layout: post
 fullview: false
-excerpt:
+excerpt: It's the end of Wk. 1. I'm in Young Research Library (YRL), contemplating my humanity--- go figure, contemplating one's humanity in North Campus, the humanities side of campus.  
 comments: true
 ---
 It's the end of Wk. 1. I'm in Young Research Library (YRL), contemplating my humanity--- go figure, contemplating one's humanity in North Campus, the humanities side of campus.  
@@ -18,4 +18,4 @@ I've joined BruinSpace, which is a on-campus group that does cool space stuff. I
 
 There's some cinnamon toast crunch that's been sitting on my desk. Gonna eat it.
 
-SATURDAY: Woke up, didn't do much. Studied a bit, watched some "Friends." Had Korean Fried Chicken w/ friends. Certainly worth it; BBQ Chicken in Westwood has a 57 dollar family combo meal, so we just split that among 6 people. Definitely worth it!! 
+SATURDAY: Woke up, didn't do much. Studied a bit, watched some "Friends." Had Korean Fried Chicken w/ friends. Certainly worth it; BBQ Chicken in Westwood has a 57 dollar family combo meal, so we just split that among 6 people. Definitely worth it!!
