@@ -1,6 +1,6 @@
 ---
 title: 'My Love For BruinCafe'
-date: '2018-10-05 14:26:00'
+date: '2018-10-14 18:30:00'
 layout: post
 fullview: false
 excerpt: When I was a nintendo gameboy mashing kindergartner, there was this one establishment in Taft that I loved-- All In A Sandwich (AIAS); AIAS was a simple, no-fancy-avocados deli ran by an old woman out of her decked out and culinarily upgraded living room.
