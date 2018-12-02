@@ -20,12 +20,12 @@ defaults:
 description: The blest blog/personal site ever. 
 author:
   name: Passa Pungchai
-  email: 426@lammersvilleusd.net
+  email: passaep@ucla.edu
   github: PassaEP
   twitter: PassaEP
   # pinterest: asd123
   # linkedin: asd123
-  bio: Another dreamer from the Middle of Nowhere. 
+  bio: Confessions into the binary abyss. 
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
