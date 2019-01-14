@@ -1,6 +1,6 @@
 ---
 title: 'Rigorous Algebra'
-date: '2018-01-19 20:52:00'
+date: '2019-01-13 20:52:00'
 layout: post
 fullview: false
 excerpt: Winter is here.. and so are my insecurities about mathematics.
