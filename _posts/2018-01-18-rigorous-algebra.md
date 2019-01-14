@@ -1,6 +1,6 @@
 ---
 title: 'Rigorous Algebra'
-date: '2018-01-13 20:52:00'
+date: '2018-01-19 20:52:00'
 layout: post
 fullview: false
 excerpt: Winter is here.. and so are my insecurities about mathematics.
@@ -16,7 +16,7 @@ Fast forward to now, when Professor Corbin etched four solutions to the simple h
 
 "Differential equations don't make much sense in math," he admitted. "They make more sense in physics!"
 
-Now, here I am, trying to learn the mathematics behind the oscillators and circuits that I've loved for so long. Hell, I used to religiously read papers from Christopher Voigt's Lab down at MIT and Erik Winfree's DNA origami stuff was so cool.
+Now, here I am, trying to learn the mathematics behind the oscillators and circuits that I've loved for so long. Hell, I used to religiously read papers from Christopher Voigt's Lab and Erik Winfree's Lab at Caltech. I was a funny kid, I guess.
 
 Reading research papers as a bioengineering student makes more sense as the BE curriculum and all the prerequisities ensure that one has a bird's eye view of everything relevant to the field. The problem is, when joining a lab or trying to innovate in the field, a bird's eye view is simply not enough.
 
@@ -30,7 +30,7 @@ You see, there is lore and legend surrounding the math geniuses of old. Richard 
 
 As dreamer of science, my greatest insecurity was being average to slightly above average in math. Sure, I had the scores to get into UCLA engineering, and my math scores were the "normal scores" for other top-tier engineering programs. By "normal", I mean perfect. But I wasn't a USAMO competitor or IMO aspirant. No, I'm just an average mathematician.
 
-I was surprised when my Calculus BC teacher even let me touch Ross' Elementary Analysis; I'm too mediocre.
+I was surprised when my Calculus BC teacher even let me touch Ross' Elementary Analysis; I was definitely too mediocre to read the book, much less so to take it home.
 
 But as an engineer (and future researcher, fingers crossed), mathematics is a tool, language, and lense. It allows us to see, examine, and communicate otherwise overly complex systems in ways one wouldn't be able to imagine. I guess it's ridiculous for an American author to be afraid of the English language, so I have to stop being afraid, too.
 ....
