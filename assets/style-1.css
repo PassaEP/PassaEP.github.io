@@ -80,7 +80,6 @@ a:hover {
 }
 
 .circular--landscape {
-  display: inline-block;
   position: relative;
   width: 150px;
   height: 150px;
@@ -91,9 +90,14 @@ a:hover {
 .circular--landscape img {
   width: auto;
   height: 100%;
-  margin-left: -50px;
+
+  display: block;
 }
 
+.links {
+  text-align: center;
+  position: relative;
+}
 
 /* .thisauthor {
           color: #111;
