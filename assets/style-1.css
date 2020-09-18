@@ -81,17 +81,19 @@ a:hover {
 
 .circular--landscape {
   position: relative;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   overflow: hidden;
   border-radius: 50%;
 }
 
+
 .circular--landscape img {
   width: auto;
   height: 100%;
+  margin-left: -50px;
+  display: inline-block;
 }
-
 
 .left-block {
   margin: auto;
@@ -99,7 +101,24 @@ a:hover {
   position: relative;
   display: inline-block;
   padding: 10px;
+
 }
+
+.projects {
+  font-size: 20px;
+  font-weight: 200;
+
+
+}
+
+
+/* .circular--landscape img {
+  width: auto;
+  height: 100%;
+}
+
+
+
 
 /* .thisauthor {
           color: #111;
