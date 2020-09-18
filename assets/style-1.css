@@ -4,7 +4,7 @@
 }
 
 a:hover {
-    /* font-weight: 400; */
+    font-weight: 800;
     text-decoration: none;
     transition-duration: 0.3s;
     transition-timing-function: linear;
@@ -91,7 +91,6 @@ a:hover {
   width: auto;
   height: 100%;
 }
-
 
 
 .left-block {

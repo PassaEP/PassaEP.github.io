@@ -3,8 +3,8 @@ const fontname = "Barlow";
 const fontweights = [300, 400]
 
 // Color properties
-const basecolor = "#999";
-const accentcolor = "#ddd";
+const basecolor = "#000000";
+const accentcolor = "#98d9a1";
 const highlightcolor = "#eee";
 
 // const basecolor = "#888";
@@ -14,7 +14,7 @@ const highlightcolor = "#eee";
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "12pt";
-const backgroundcolor = "#383838";
+const backgroundcolor = "#ffffff";
 
 // Link properties
 const acolor = accentcolor;
